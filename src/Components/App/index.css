@@ -1,0 +1,16 @@
+.center-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.inner-div{
+    width: 35%;
+}
+
+.text-center{
+    color:rgb(56, 147, 233);
+    text-align: center;
+    margin-bottom: 10px;
+}
