@@ -6,10 +6,13 @@ class Login extends Component{
             <div className="login-div">
                 <h1 className="center-heading">Login</h1>
                 <form className="form">
-                    <label for="username">Username</label>
-                    <input type={"text"} placeholder="Enter username" id="username" className="text-input"/>
-                    <label for="username">Password</label>
-                    <input type={"password"} placeholder="Enter password" id="password" className="text-input"/>
+                    <label for="username">Username
+                        <input type={"text"} placeholder="Enter username" id="username" className="text-input"/>
+                    </label>
+                    <label for="username">Password
+                        <input type={"password"} placeholder="Enter password" id="password" className="text-input"/>
+                    </label>
+                    
                     <input type={"button"} value="Login" className="button-input"/>
                     <p><a href="wwww.google.com">Forgot password?</a></p>
                     <p>Create an account, <a href="www.google.com">Sign up</a> </p>

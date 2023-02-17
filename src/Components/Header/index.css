@@ -1,0 +1,28 @@
+.header-section{
+    width: 99%;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(56, 147, 233);
+}
+
+li{
+    list-style: none;
+    color: white;
+    font-size: larger;
+    margin-left: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.right-section{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo{
+    color: white;
+}
