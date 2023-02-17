@@ -11,7 +11,8 @@ class Login extends Component{
                     <label for="username">Password</label>
                     <input type={"password"} placeholder="Enter password" id="password" className="text-input"/>
                     <input type={"button"} value="Login" className="button-input"/>
-                    <p>Sign up if you don't have an account with us</p>
+                    <p><a href="wwww.google.com">Forgot password?</a></p>
+                    <p>Create an account, <a href="www.google.com">Sign up</a> </p>
                 </form>
             </div>
         );
