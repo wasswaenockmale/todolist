@@ -11,6 +11,8 @@
     border: 1px solid  rgb(56, 147, 233);
     border-radius: 10px;
     padding: 5px;
+    background-color: aliceblue;
+    box-sizing: border-box;
 }
 
 .form{
@@ -28,6 +30,7 @@
     padding: 15px;
     outline: none;
     border: 1px solid  rgb(56, 147, 233);
+    border-radius: 5px;
 }
 
 .button-input{
@@ -48,4 +51,8 @@ a{
 
 p{
     margin: 5px;
+}
+
+label{
+    margin: 10px;
 }
